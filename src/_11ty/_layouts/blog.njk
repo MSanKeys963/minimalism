@@ -1,11 +1,10 @@
 ---
 title: Blog
-description: In questa pagina troverai tutti i pots che ho pubblicato
+description: On this page you will find all the posts I have published
 keyword: test
 type: website
 ---
 <!DOCTYPE html>
-<html lang="it">
 {% include "head-website.njk" %}
 <!-- Start Body -->
 <body>
@@ -21,7 +20,7 @@ type: website
                 <p>{{post.data.description | safe}}</p>
                 <small class="info">
                     <time datetime="{{page.date}}">{{page.date | readableDate}}</time>&nbsp;&nbsp;&ndash;&nbsp;
-                    {{content | readingTime}}&nbsp;per&nbsp;leggerlo
+                    {{content | readingTime}}&nbsp;per&nbsp;read
                 </small>
             </li>
         {%- endfor -%}

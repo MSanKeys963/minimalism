@@ -1,13 +1,11 @@
 ---
-title: Articolo del Blog
-description: Questa è la descrizione di uno degli articoli del blog
+title: Blog article
+description: This is the description of one of the blog articles
 tags: post
 date: Created
-luogo: Palermo
 type: article
 ---
 <!DOCTYPE html>
-<html lang="it">
 {% include "head-article.njk" %}
 <!-- Start Body -->
 <body>
@@ -16,7 +14,7 @@ type: article
         <small class="info">
             {{ luogo }}&nbsp;
             <time datetime="{{page.date}}">{{page.date | readableDate}}</time>&nbsp;&ndash;&nbsp;
-            {{content | readingTime}}&nbsp;per&nbsp;leggerlo
+            {{content | readingTime}}&nbsp;per&nbsp;read
         </small>
         <h1>{{ title }}</h1>
         {{content | safe}}
