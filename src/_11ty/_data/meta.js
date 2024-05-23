@@ -4,7 +4,7 @@ module.exports = {
   //  
   language: "en-US",
   lang: "en",
-  siteName: "Sanket Homepage",
+  siteName: "Sanket",
   shortName: "Sanket",
   motto: "Almost idyllicaly inquistive.",
   authorName: "Sanket Verma",
