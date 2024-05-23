@@ -1,7 +1,7 @@
 {
   "name": "Sanket Homepage",
   "version": "0.1.00",
-  "description": "Sanket's corner on the internet",
+  "description": "Sanket corner on the internet",
   "main": "index.js",
   "scripts": {
     "dev": "run-p dev:*",
