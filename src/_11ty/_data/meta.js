@@ -4,9 +4,9 @@ module.exports = {
   //  
   language: "en-US",
   lang: "en",
-  siteName: "Sanket's Homepage",
+  siteName: "Sanket Homepage",
   shortName: "Sanket",
-  motto: "Simplicity is the ultimate sophistication.",
+  motto: "Almost idyllicaly inquistive.",
   authorName: "Sanket Verma",
   siteDescription: "",
   sitekeyword: "",

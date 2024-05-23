@@ -1,7 +1,7 @@
 {
-  "name": "minimalism",
+  "name": "Sanket's Homepage",
   "version": "0.1.00",
-  "description": "I beg you God, make sure that it is the last!",
+  "description": "Sanket's corner on the internet",
   "main": "index.js",
   "scripts": {
     "dev": "run-p dev:*",
@@ -23,7 +23,7 @@
     "SEO",
     "PWA"
   ],
-  "author": "Marco Micale <marcomicale@gmail.com> (https://www.marcomicale.eu/)",
+  "author": "Sanket Verma <svsanketverma5@gmail.com> (https://www.sanketverma.com/)",
   "license": "MIT",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.0-beta.2",
