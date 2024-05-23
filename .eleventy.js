@@ -5,7 +5,7 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const readingTime = require("eleventy-plugin-reading-time");
 
 // Helper packages
-const htmlmin = require("html-minifier");
+const htmlmin = require("html-minifier-terser");
 const { DateTime } = require("luxon");
 
 // 11ty

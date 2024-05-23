@@ -1,15 +1,16 @@
 ---
-title: About me
+title: Talks
 layout: page.njk
-keyword: test
 tags: pages
 permalink: "{{ title | slugify }}.html"
 eleventyNavigation:
   key: "{{ title | slugify }}"
-  title: About me
-  order: 4
+  title: Talks
+  order: 3
 ---
 
-# About Me
+# Talks
 
-@@ TODO
+<div class="lead">
+All the talks I've presented over the years!
+</div>
