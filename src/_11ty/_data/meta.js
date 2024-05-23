@@ -2,16 +2,16 @@ module.exports = {
   //
   // Website Meta
   //  
-  language: "it-IT",
-  lang: "it",
-  siteName: "Minimalism",
-  shortName: "Minimalism",
+  language: "en-US",
+  lang: "en",
+  siteName: "Sanket's Homepage",
+  shortName: "Sanket",
   motto: "Simplicity is the ultimate sophistication.",
-  authorName: "Autore",
+  authorName: "Sanket Verma",
   siteDescription: "",
   sitekeyword: "",
-  creationDate: "02/02/2022", // change this data
-  url: process.env.URL || "https://www.marcomicale.eu", // change this url
+  creationDate: "23/05/2024", // change this data
+  url: process.env.URL || "https://www.sanketverma.com", // change this url
   robots: "index, follow",
   //
   // Color App
@@ -21,14 +21,12 @@ module.exports = {
   //
   // Contact me
   //
-  mail: "marcomicale@gmail.com",
+  mail: "svsanketverma5@gmail.com",
   telephone: "",
   //
   // Social Network
   //
-  twitterUser: "", 
-  facebookUser: "",
-  githubUser: "",
-  telegramkUser: "",
-  linkedinkUser: "",
+  twitterUser: "msankeys963", 
+  githubUser: "msankeys963",
+  linkedinkUser: "msankeys963",
 };
