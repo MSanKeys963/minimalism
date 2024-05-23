@@ -1,5 +1,5 @@
 ---
-title: homepage
+title: index
 layout: page.njk
 keyword: test
 permalink: "{{ title | slugify }}.html"
