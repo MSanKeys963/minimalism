@@ -2,7 +2,7 @@
 title: My First Blog Post
 description: Intro 
 tags: ["post", "personal"]
-date: 2022-01-29
+date: 2024-05-23
 layout: article.njk
 permalink: "blog/{{ title | slugify }}.html"
 ---
